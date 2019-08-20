@@ -16,4 +16,4 @@ MyasNick's Nexus Visual Studio Code color theme based on Nexus Sublime Text them
 
 ## Credits
 - MyasNick's Nexus Color Theme: [MyasNick](https://github.com/MyasNick/nexus-vscode-color-theme/)
-- Nexus Sublime Text Theme: [Mark H. Morrison GitHub](https://github.com/MarkHMorrison/)
+- Nexus Sublime Text Theme: [Mark H. Morrison GitHub](https://github.com/MarkHMorrison/nexus-theme/)
