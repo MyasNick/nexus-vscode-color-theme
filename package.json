@@ -1,0 +1,36 @@
+{
+	"name": "nexus-vscode-color-theme",
+	"displayName": "MyasNick's Nexus Color Theme",
+	"description": "MyasNick's Nexus Visual Studio Code color theme based on Nexus Sublime Text theme by Mark H. Morrison",
+	"version": "1.0.0",
+	"publisher": "MyasNick",
+	"bugs": {
+		"url": "https://github.com/MyasNick/nexus-vscode-color-theme/issues"
+	},
+	"homepage":   "https://github.com/MyasNick/nexus-vscode-color-theme",
+	"repository": {
+		"type":   "git",
+		"url":    "https://github.com/MyasNick/nexus-vscode-color-theme"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label":   "MyasNick's Nexus Color Theme",
+				"uiTheme": "vs-dark",
+				"path":    "MyasNick's Nexus.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1a1345d9-a77b-41a8-809c-d489a9bceb7f",
+		"publisherId": "MyasNick",
+		"publisherDisplayName": "MyasNick"
+	}
+}

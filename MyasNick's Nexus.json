@@ -1,0 +1,25 @@
+{
+    "name": "MyasNick's Nexus Color Theme",
+    "type": "dark",
+    "tokenColors": "MyasNick's Nexus.tmTheme",
+    "colors": {
+        "editor.background": "#282828",
+        "editor.foreground": "#DED9D4",
+        // "editor.foreground": "#E6E1DC",
+        "editorLink.foreground": "#6D9CBE",
+        "editorLink.activeForeground": "#6D9CBE",
+        // "editorLink.activeForeground": "#268BD2",
+        "textLink.foreground": "#6D9CBE",
+        "textLink.activeForeground": "#6D9CBE",
+        // "textLink.activeForeground": "#268BD2",
+        "editorCursor.foreground": "#FFFFFF",
+        "editorWhitespace.foreground": "#404040",
+        "editor.lineHighlightBackground": "#333435",
+        "editor.selectionBackground": "#3D4456E0",
+        "statusBar.background" : "#202021",
+        // "statusBar.background" : "#1A1A1A",
+        "statusBar.noFolderBackground" : "#202021",
+        // "statusBar.noFolderBackground" : "#212121",
+        "statusBar.debuggingBackground": "#263238",
+    }
+}
