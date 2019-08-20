@@ -6,8 +6,8 @@ MyasNick's Nexus Visual Studio Code color theme based on Nexus Sublime Text them
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/myasnick.nexus-vscode-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=MyasNick.nexus-vscode-color-theme)
 
 ## Features
-- Custom dark color theme
-- No italic fonts
+* Custom dark color theme
+* No italic fonts
 
 ## Screenshot
 ![Screenshot](https://github.com/MyasNick/nexus-vscode-color-theme/raw/master/screenshot.png)
@@ -15,14 +15,14 @@ MyasNick's Nexus Visual Studio Code color theme based on Nexus Sublime Text them
 ## Changelog
 
 ### v. 1.0.2
-- Some minor changes
+* Some minor changes
 
 ### v. 1.0.1
-- Some minor changes
+* Some minor changes
 
 ### v. 1.0.0
-- Initial release
+* Initial release
 
 ## Credits
-- MyasNick's Nexus Color Theme: [MyasNick](https://github.com/MyasNick/nexus-vscode-color-theme/)
-- Nexus Sublime Text Theme: [Mark H. Morrison GitHub](https://github.com/MarkHMorrison/)
+* MyasNick's Nexus Color Theme: [MyasNick](https://github.com/MyasNick/nexus-vscode-color-theme/)
+* Nexus Sublime Text Theme: [Mark H. Morrison GitHub](https://github.com/MarkHMorrison/)
