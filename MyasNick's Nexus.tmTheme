@@ -420,10 +420,10 @@
 			<string>markup.underline</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
 				<string>#839496</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -435,10 +435,10 @@ markup.link,
 markup.url</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
 				<string>#6D9CBE</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -449,9 +449,7 @@ markup.url</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6D9CBE</string>
-				<key>fontStyle</key>
-				<string> underline</string>
+				<string>#586E75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -462,9 +460,7 @@ markup.url</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6D9CBE</string>
-				<key>fontStyle</key>
-				<string> underline</string>
+				<string>#586E75</string>
 			</dict>
 		</dict>
 		<dict>
