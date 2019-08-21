@@ -14,9 +14,11 @@ MyasNick's Nexus Visual Studio Code color theme based on Nexus Sublime Text them
 
 ## Changelog
 
+### v. 1.0.5
+* Editor colors harmonized
+
 ### v. 1.0.4
 * Slightly changed syntax highlighting
-* Editor colors harmonized
 
 ### v. 1.0.3
 * Some minor changes
