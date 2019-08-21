@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="nexus-vscode-color-theme" Version="1.0.3" Publisher="MyasNick"/>
+    <Identity Language="en-US" Id="nexus-vscode-color-theme" Version="1.0.4" Publisher="MyasNick"/>
     <DisplayName>MyasNick's Nexus Color Theme</DisplayName>
     <Description xml:space="preserve">MyasNick's Nexus Visual Studio Code color theme based on Nexus Sublime Text theme by Mark H. Morrison</Description>
     <Tags>theme,color-theme,dark,nexus,sublime</Tags>
