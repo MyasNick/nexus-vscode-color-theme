@@ -6,6 +6,7 @@
 
         "focusBorder": "#565656",
         "list.focusBackground": "#404040",
+        "list.activeSelectionBackground": "#565656",
         "menu.selectionBackground": "#2e2e2e",
         "titleBar.activeBackground": "#3c3c3c",
         "titleBar.inactiveBackground": "#3c3c3c",
