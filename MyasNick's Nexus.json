@@ -37,10 +37,13 @@
         "tab.inactiveBackground": "#3C3C3C",
         "tab.border": "#3C3C3C",
 
-        "statusBar.background" : "#202021",
-        "statusBar.foreground":  "#777777",
-        "statusBar.debuggingForeground": "#DED9D4",
+        "statusBar.background": "#202021",
+        "statusBar.foreground": "#777777",
+        "statusBar.noFolderBackground": "#202021",
         "statusBar.debuggingBackground": "#263238",
+        "statusBar.debuggingForeground": "#DED9D4",
+        // "statusBarItem.prominentBackground": "#00FF00",
+        // "statusBarItem.prominentHoverBackground": "#0000FF",
 
         "panel.background": "#1D1D1E",
         "panelTitle.activeBorder": "#DED9D4",
